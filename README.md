@@ -39,8 +39,7 @@ I have a deep appreciation for the beauty of the natural world, the tranquility 
 <br>
 <br>
 
-#### 📖 What I'm still learning
-- Time Series Forecasting
-- Deep Learning
-- Kaggle Competitions
+#### 📖 What I'm learning / I want to learn
+- Time Series Analysis
+- Pytorch / Tensorflow
 
