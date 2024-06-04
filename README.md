@@ -8,7 +8,7 @@ I have a deep appreciation for the beauty of the natural world, the tranquility 
 #### 🧰 Tools and languages I use
 
 
-<div style="display: flex; vertical-align: middle;">
+<div style="display: flex; vertical-align: middle; horizontal-align: middle;">
     <img align="left" width="50px" style="padding-right:10px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img align="left" width="50px" style="padding-right:10px"
@@ -21,8 +21,10 @@ I have a deep appreciation for the beauty of the natural world, the tranquility 
             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
     <img align="left" width="50px" style="padding-right:10px" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img align="left" width="50px" style="padding-right:10px" 
+    <img align="left" width="60px" style="padding-right:10px" 
             src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" />
+    <img align="left" width="50px" style="padding-right:10px" 
+            src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 </div>
 <br>
 <br>
