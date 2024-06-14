@@ -44,6 +44,5 @@ I have a deep appreciation for the beauty of the natural world, the tranquility 
 <br>
 
 #### 📖 What I'm learning / I want to learn
-- Time Series Analysis
-- Pytorch / Tensorflow
+- PyTorch
 
